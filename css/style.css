@@ -82,6 +82,10 @@ body {
 }
 
 /*sidenav */
+nav.sidenav {
+  background-color: #fff;
+  height: 1999px;
+}
 
 .sidenav {
   grid-area: sidenav;
@@ -229,7 +233,7 @@ p {
 }
 
 .destaque {
-  font-size: 0.875rem;
+  font-size: 0.82 rem;
   color: #b07bfb;
   max-height: 16rem;
 }
